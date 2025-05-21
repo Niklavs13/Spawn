@@ -1,0 +1,5 @@
+skaitlis = int(input("Ievadiet pirmo skaitli: "))
+skaitlis2 = int(input("Ievadiet otro skaitli: "))
+skaitlis3 = int(input("Ievadiet treso skaitli: "))
+skaitlis4 = int(input("Ievadiet ceturto skaitli: "))
+skaitlis5 = int(input("Ievadiet piekto skaitli: "))
